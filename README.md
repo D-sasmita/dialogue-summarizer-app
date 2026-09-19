@@ -3,7 +3,7 @@
 A Streamlit app that summarizes short chat-style conversations using a
 Flan-T5-base model fine-tuned with LoRA on the SAMSum dataset.
 
-**Live app:** [add your streamlit.app link here once deployed]
+**Live app:** [(https://dialogue-summarizer-app-yhg4rto4v4ytsdqyjcfvkb.streamlit.app/)]
 **Model:** [Sasmita03/lora-samsum-summarizer](https://huggingface.co/Sasmita03/lora-samsum-summarizer)
 
 ## How it works
